@@ -8,7 +8,7 @@
 
 - 🛝 In my free time I enjoy trying new foods, mixing music, and as a Colorado native, I love hitting the slopes and snowboarding.
 
-# 📫 I would love to talk! 
+### 📫 I would love to talk! 
 
 Email me at manihani@stanford.edu. Would love to build something together!
   
