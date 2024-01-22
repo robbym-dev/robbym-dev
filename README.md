@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently a student at Stanford University studying the AI track in Computer Science and Natural Language track in Symbolic Systems. 
 
-- ⚡ I have a deep fascination in Natural Language Processing (NLP), and co-advised by Prof. Christopher Ré and Prof. Azalia Mirhoseini at the Stanford Artificial Intelligence Laboratory (SAIL); I am currently researching an inagural Automated Evaluation Framework for Retrieval-Augmented Generated Systems in the Hazy Lab. On the flip side, I am also currently working as a Software Engineer @Stanford-Carta and have a keen interest in software development. 
+- ⚡ I have a deep fascination in Natural Language Processing (NLP), and co-advised by Prof. Christopher Ré and Prof. Azalia Mirhoseini at the Stanford Artificial Intelligence Laboratory (SAIL); I am currently researching an inagural Automated Evaluation Framework for Retrieval-Augmented Generated Systems in the Hazy Lab. On the flip side, I have a keen interest in software development and am working as a Software Engineer at Carta, Stanford's premier course planning platform used by 95% of undergrads. 
 
 - 🌱 Particularly, I'm drawn to the dynamic world of startups, where ideas transform into impactful realities.
 
