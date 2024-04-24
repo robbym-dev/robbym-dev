@@ -1,6 +1,6 @@
 ### Hi there, I'm Robby Manihani 👋
 
-- 🔭 I'm currently a student at Stanford University studying the AI track in Computer Science and Natural Language track in Symbolic Systems. 
+- 🔭 I'm currently a student at Stanford University studying the Computer Science on the AI track. 
 
 - ⚡ I have a deep fascination in Natural Language Processing (NLP), and co-advised by Prof. Christopher Ré and Prof. Azalia Mirhoseini at the Stanford Artificial Intelligence Laboratory (SAIL); I am currently researching an inagural Automated Evaluation Framework for Retrieval-Augmented Generated (RAG) Systems in the Hazy Lab - check out the ARES project I'm working on [here](https://github.com/stanford-futuredata/ARES/tree/main)! On the flip side, I have a keen interest in software development and am working as a Software Engineer at Carta, Stanford's premier course planning platform used by 95% of undergrads. 
 
